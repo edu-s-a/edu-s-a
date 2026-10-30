@@ -15,7 +15,7 @@
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=edu-s-a&theme=transparent&background=10140E&border=2A3626&fire=8FA66B&currStreakNum=C2C9B4&sideLabels=C2C9B4&stroke=2A3626&sideNums=C2C9B4&ring=5E7A45&currStreakLabel=8FA66B&dates=7D8770&excludeDaysLabel=7D8770" alt="GitHub Streak" /></a>
 </td>
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=edu-s-a&hide_border=false&langs_count=10&title_color=8FA66B&text_color=C2C9B4&bg_color=10140E&border_color=2A3626"/>
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=edu-s-a&hide_border=false&langs_count=10&title_color=8FA66B&text_color=C2C9B4&bg_color=10140E&border_color=2A3626&v=2"/>
 </td>
 </tr>
 </table>
